@@ -1,0 +1,1 @@
+{"name":"My Tasks","short_name":"My Tasks","description":"個人用タスク管理アプリ","start_url":"./","scope":"./","display":"standalone","background_color":"#f7f8fb","theme_color":"#f7f8fb","icons":[{"src":"icon.png","sizes":"192x192 512x512","type":"image/png","purpose":"any maskable"}]}
